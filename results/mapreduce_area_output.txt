@@ -1,0 +1,25 @@
+CBT	25883.58
+Channamma Circle	30018.88
+Deshpande Nagar	66162.15
+Dharwad Town	64316.27
+Gandhinagar	48990.02
+Gokul Road	61499.19
+Hosur	43892.95
+Jubilee Circle	26882.20
+KCD Road	62200.44
+Kelageri	31233.34
+Keshwapur	59017.95
+Lakamanahalli	50121.33
+Malmaddi	58263.47
+Navalur	39308.33
+Navanagar	22708.92
+Old Hubli	42667.70
+Rajendra Nagar	52692.98
+Saptapur	63724.18
+Saraswatpur	60350.04
+Shirur Park	78033.33
+Toll Naka	40041.06
+UAS Dharwad	72505.36
+Unkal	42982.72
+Vidyagiri	57062.11
+Vidyanagar	24813.72
